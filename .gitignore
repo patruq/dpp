@@ -1,3 +1,3 @@
-datasets/
-2016-survey-data-kaggle/*
-election-results/*
+data/**
+# !data/**/
+!data/**/.gitkeep
